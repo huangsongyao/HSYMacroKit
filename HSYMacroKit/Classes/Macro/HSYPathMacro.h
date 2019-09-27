@@ -8,8 +8,8 @@
 #ifndef HSYPathMacro_h
 #define HSYPathMacro_h
 
-#define HSY_PATH_DOCUMENT                           @""
-#define HSY_PATH_LIBRARY                            @""
-#define HSY_PATH_CACHE                              @""
+#define HSY_PATH_DOCUMENT               [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) firstObject]
+#define HSY_PATH_LIBRARY                [NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES) firstObject]
+#define HSY_PATH_CACHE                  [NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES) firstObject]
 
 #endif /* HSYPathMacro_h */

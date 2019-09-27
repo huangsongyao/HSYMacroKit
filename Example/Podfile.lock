@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - HSYMacroKit (0.1.0)
+  - HSYMacroKit (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  HSYMacroKit: fc4bdc106558937fa996442279fc4021ff40da36
+  HSYMacroKit: 2040c2a0ee06ff247a3ffe909cdd2be9a2224072
 
 PODFILE CHECKSUM: 7dc3ae830cc9742cd12dccc3e163ac1ac96794c0
 

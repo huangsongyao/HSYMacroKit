@@ -101,4 +101,16 @@ _Pragma("clang diagnostic pop") \
 #define HSYCOCOAKIT_GGA_ROTATION(angle)                                 (CGAffineTransformMakeRotation(angle))
 
 
+
+//方法可用限制
+#define HSY_NS_AVAILABLE_IOS(versions)                  NS_AVAILABLE_IOS(versions)
+#define HSY_AVAILABLE_IOS_9                             HSY_NS_AVAILABLE_IOS(9_0)
+#define HSY_AVAILABLE_IOS_10                            HSY_NS_AVAILABLE_IOS(10_0)
+#define HSY_AVAILABLE_IOS_11                            HSY_NS_AVAILABLE_IOS(11_0)
+#define HSY_AVAILABLE_IOS_12                            HSY_NS_AVAILABLE_IOS(12_0)
+#define HSY_AVAILABLE_IOS_13                            HSY_NS_AVAILABLE_IOS(13_0)
+
+
+
+
 #endif /* HSYToolsMacro_h */
