@@ -1,0 +1,6 @@
+framework module HSYMacroKit {
+  umbrella header "HSYMacroKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

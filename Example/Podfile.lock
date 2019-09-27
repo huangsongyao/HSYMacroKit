@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HSYMacroKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HSYMacroKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HSYMacroKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HSYMacroKit: fc4bdc106558937fa996442279fc4021ff40da36
+
+PODFILE CHECKSUM: 7dc3ae830cc9742cd12dccc3e163ac1ac96794c0
+
+COCOAPODS: 1.7.5

@@ -1,0 +1,1 @@
+../../../../../HSYMacroKit/Classes/Macro/HSYPathMacro.h
