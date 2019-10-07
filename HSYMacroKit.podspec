@@ -30,10 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HSYMacroKit/Roots/Classes/**/*.{h,m}'
+  s.source_files = 'HSYMacroKit/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
-  #   'HSYMacroKit' => ['HSYMacroKit/Roots/Assets/*.png']
+  #   'HSYMacroKit' => ['HSYMacroKit/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
