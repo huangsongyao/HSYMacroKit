@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HSYMacroKit/Classes/**/*.{h,m}"
+  "source_files": "HSYMacroKit/Roots/Classes/**/*.{h,m}"
 }

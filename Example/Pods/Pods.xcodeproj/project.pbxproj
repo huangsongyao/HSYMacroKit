@@ -73,21 +73,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		010E7E7735E68314F0B9ADBADE59E645 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		0A3ACA72AE9B776E644F6D159AB3E80B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		13C8BBFE2D9E3A9C566221B1DE04E91C /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
+		1B38EC088D5940CE99AE9D1796D2F64D /* HSYToolsMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYToolsMacro.h; path = HSYMacroKit/Roots/Classes/Macro/HSYToolsMacro.h; sourceTree = "<group>"; };
 		1B8ABEEA76ECDF1975B6D0787700F929 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
-		2D6CE93C33C7B1F9BCBBAEC7F475A30A /* HSYMacroKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HSYMacroKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		21DE471B40E9782A482E12CBC24E8587 /* HSYBundleMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYBundleMacro.h; path = HSYMacroKit/Roots/Classes/Macro/HSYBundleMacro.h; sourceTree = "<group>"; };
 		367D8E2596AF8E96AE93AF9930E55C15 /* Pods_HSYMacroKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HSYMacroKit_Example.framework; path = "Pods-HSYMacroKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A83AE4362CF1D4764E00E4602A2D648 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		3E29C50D3CDB46CBCBD20AFA13EB3D8D /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		3FF638A25B9914A58B64F440BD51BACC /* Pods-HSYMacroKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HSYMacroKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		418E0471655A8CDB5EB2C290498D2FD3 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
-		41A6AFE164E7F6733B7216969476950D /* HSYToolsMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYToolsMacro.h; path = HSYMacroKit/Classes/Macro/HSYToolsMacro.h; sourceTree = "<group>"; };
 		520752432B51C0C33475C052C446031F /* Pods-HSYMacroKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HSYMacroKit_Example.modulemap"; sourceTree = "<group>"; };
 		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D8A59B79EB4C60E848DC671D6A3224F /* Pods-HSYMacroKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HSYMacroKit_Tests.modulemap"; sourceTree = "<group>"; };
 		5E601BD54DA9BF4071437E60125281FA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		5FBA98D0D93F46CE878B8464270E4B77 /* HSYMacroKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HSYMacroKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		66FF560346DE283DB677718A0823872C /* Pods_HSYMacroKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HSYMacroKit_Tests.framework; path = "Pods-HSYMacroKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		672DFE0977E8B91063E369EAE06E0619 /* Pods-HSYMacroKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HSYMacroKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		68786DCBA7330F8E2722C4353D384278 /* Pods-HSYMacroKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HSYMacroKit_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -105,24 +105,24 @@
 		90A54048D4743C30065BBDE8705E47BF /* Pods-HSYMacroKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HSYMacroKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		98FD387DFA194173633270BAF1BCD859 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A182176CECDB174542C965513A4CEBC4 /* HSYPathMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYPathMacro.h; path = HSYMacroKit/Classes/Macro/HSYPathMacro.h; sourceTree = "<group>"; };
 		A25844C26701FA4BCAEF64150B56777F /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		A3C5E8AC22408D07D76324BB09FB4835 /* Pods-HSYMacroKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HSYMacroKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		AA172EA1A198EEFBE0794EACF7993C02 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		AC9B5C057B46083A6A9501AABF3C1CCC /* Pods-HSYMacroKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HSYMacroKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		AD0B81AC7DF4855803A0FA70985F8A99 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		AD3D454D2EAB189EDC17AF61F51E684B /* Pods-HSYMacroKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HSYMacroKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		CF11FF7C77E32000440F5CAC50BC2627 /* HSYBundleMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYBundleMacro.h; path = HSYMacroKit/Classes/Macro/HSYBundleMacro.h; sourceTree = "<group>"; };
+		B0E72803D7B9F7F218D9B5804B44B0AB /* HSYMacroKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HSYMacroKit.xcconfig; sourceTree = "<group>"; };
+		B3EBAE06A5CDEFDC821094D47FCB2E8D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		D3067EAFD5B0A06885968D137840DB70 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		DAFCF68330C38CD6E1FC303DE7583577 /* Pods-HSYMacroKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HSYMacroKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DE35F81C954881204729C569018D98C0 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		E0956940883830C651240E754E3ECC52 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		E0F83FF4925ECB348570E3BAC7E3FC89 /* Pods-HSYMacroKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HSYMacroKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		E354F8FD537351F26F7949B4EBFA5101 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
+		E55567ACE572C5D6E93BDE361595C75E /* HSYPathMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HSYPathMacro.h; path = HSYMacroKit/Roots/Classes/Macro/HSYPathMacro.h; sourceTree = "<group>"; };
 		E621F768263424D9C5C35D58513625CB /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		E7FADDABFECBFDF482AEFB7A99B95A15 /* Pods-HSYMacroKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HSYMacroKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		EA718A72E676291836EBB46B85242155 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		EEA4BAE64D208921441AF0A9E256605A /* HSYMacroKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HSYMacroKit.xcconfig; sourceTree = "<group>"; };
 		EF53D290F564A9B10CEF56C9DC2010F2 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		EFF3EE78EEE1673FC3A5B792A97EF1AA /* Pods-HSYMacroKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HSYMacroKit_Example-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -158,10 +158,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		019A9D91DCD8B1EAD8C317DB53A88641 /* HSYMacroKit */ = {
+			isa = PBXGroup;
+			children = (
+				21DE471B40E9782A482E12CBC24E8587 /* HSYBundleMacro.h */,
+				E55567ACE572C5D6E93BDE361595C75E /* HSYPathMacro.h */,
+				1B38EC088D5940CE99AE9D1796D2F64D /* HSYToolsMacro.h */,
+				EA5B4D692DC2E995508AE7A274DA064E /* Pod */,
+				B75E40C14BD2F08CDEBF5F69BFC9BD62 /* Support Files */,
+			);
+			name = HSYMacroKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		0CF9030E36C018C4DCCA075DEA40063F /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				9D4E34F0AA977AD13BC6545ECCF67E9A /* HSYMacroKit */,
+				019A9D91DCD8B1EAD8C317DB53A88641 /* HSYMacroKit */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -194,15 +207,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/FBSnapshotTestCase";
-			sourceTree = "<group>";
-		};
-		51AB263F90FC30C4F078A9068FEEC34E /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				EEA4BAE64D208921441AF0A9E256605A /* HSYMacroKit.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/HSYMacroKit";
 			sourceTree = "<group>";
 		};
 		6BCBE1196F01E2E37218471728C79403 /* Pods-HSYMacroKit_Tests */ = {
@@ -261,19 +265,6 @@
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
-		9D4E34F0AA977AD13BC6545ECCF67E9A /* HSYMacroKit */ = {
-			isa = PBXGroup;
-			children = (
-				CF11FF7C77E32000440F5CAC50BC2627 /* HSYBundleMacro.h */,
-				A182176CECDB174542C965513A4CEBC4 /* HSYPathMacro.h */,
-				41A6AFE164E7F6733B7216969476950D /* HSYToolsMacro.h */,
-				B3ED291D9D9F2252C37242558E1A1D4B /* Pod */,
-				51AB263F90FC30C4F078A9068FEEC34E /* Support Files */,
-			);
-			name = HSYMacroKit;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		9DD967528FC2F5BD41E45879D4B78BEE /* Core */ = {
 			isa = PBXGroup;
 			children = (
@@ -295,13 +286,13 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
-		B3ED291D9D9F2252C37242558E1A1D4B /* Pod */ = {
+		B75E40C14BD2F08CDEBF5F69BFC9BD62 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				2D6CE93C33C7B1F9BCBBAEC7F475A30A /* HSYMacroKit.podspec */,
-				010E7E7735E68314F0B9ADBADE59E645 /* LICENSE */,
+				B0E72803D7B9F7F218D9B5804B44B0AB /* HSYMacroKit.xcconfig */,
 			);
-			name = Pod;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/HSYMacroKit";
 			sourceTree = "<group>";
 		};
 		BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */ = {
@@ -330,6 +321,15 @@
 				92B9827D134822FECA2FBE88A0585CBA /* FBSnapshotTestCase */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		EA5B4D692DC2E995508AE7A274DA064E /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				5FBA98D0D93F46CE878B8464270E4B77 /* HSYMacroKit.podspec */,
+				B3EBAE06A5CDEFDC821094D47FCB2E8D /* LICENSE */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		FDCC04EFEDBE284AE9A6A82AE251CD77 /* Products */ = {
@@ -640,7 +640,7 @@
 		};
 		6ACDB25247CAE2CCA48F4497DB9F8B5B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EEA4BAE64D208921441AF0A9E256605A /* HSYMacroKit.xcconfig */;
+			baseConfigurationReference = B0E72803D7B9F7F218D9B5804B44B0AB /* HSYMacroKit.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -653,7 +653,7 @@
 		};
 		6F8E7E6480C2D9026F59687234A72D77 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EEA4BAE64D208921441AF0A9E256605A /* HSYMacroKit.xcconfig */;
+			baseConfigurationReference = B0E72803D7B9F7F218D9B5804B44B0AB /* HSYMacroKit.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
